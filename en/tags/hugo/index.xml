@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo | My Site</title>
+    <link>https://oksana3223.github.io/en/tags/hugo/</link>
+      <atom:link href="https://oksana3223.github.io/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oksana3223.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo</title>
+      <link>https://oksana3223.github.io/en/tags/hugo/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://oksana3223.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-does-a-researcher-need-a-personal-website&#34;&gt;🌐 Why does a researcher need a personal website?&lt;/h2&gt;
+&lt;p&gt;In today’s world, a website is not just a business card but a complete &lt;strong&gt;platform to present research, publications, projects, and achievements&lt;/strong&gt;.&lt;br&gt;
+A personal academic website helps to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 Collect all articles and publications in one place.&lt;/li&gt;
+&lt;li&gt;🌍 Make your research accessible to colleagues worldwide.&lt;/li&gt;
+&lt;li&gt;🧑‍🏫 Introduce yourself to students, partners, and employers.&lt;/li&gt;
+&lt;li&gt;📝 Run a blog about research and share insights.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-hugo-academic&#34;&gt;⚙️ What is Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; is a static site generator known for its speed and simplicity.&lt;br&gt;
+The &lt;strong&gt;Academic theme&lt;/strong&gt; (now called 
+) was created specifically for &lt;strong&gt;scientists, researchers, and students&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Its advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📰 Automatic integration with &lt;strong&gt;Google Scholar&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📊 Convenient formatting of &lt;strong&gt;publication lists and projects&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🎨 Flexible customization of design and page structure.&lt;/li&gt;
+&lt;li&gt;🖼 Support for &lt;strong&gt;Markdown&lt;/strong&gt; when writing posts and notes.&lt;/li&gt;
+&lt;li&gt;🔗 Integration with GitHub and social networks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-launch-a-site&#34;&gt;🚀 How to launch a site?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Install Hugo&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Download from the 
+ or via a package manager (e.g., &lt;code&gt;brew install hugo&lt;/code&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Create a project with the Academic theme&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo new site mysite
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; mysite
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git submodule add https://github.com/wowchemy/starter-hugo-academic.git themes/academic
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cp -a themes/academic/exampleSite/* .
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Run the site locally&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The site will be available at &lt;code&gt;http://localhost:1313&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Customize your profile&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Edit &lt;code&gt;config/_default/&lt;/code&gt; (name, contacts, interests).&lt;/li&gt;
+&lt;li&gt;Fill in sections like &lt;em&gt;publications&lt;/em&gt;, &lt;em&gt;projects&lt;/em&gt;, &lt;em&gt;talks&lt;/em&gt;, &lt;em&gt;posts&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Publish online&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use &lt;strong&gt;GitHub Pages&lt;/strong&gt;, &lt;strong&gt;Netlify&lt;/strong&gt;, or &lt;strong&gt;Vercel&lt;/strong&gt; — all free.&lt;/li&gt;
+&lt;li&gt;Just connect your repository and enable auto-build.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-opportunities-for-students-and-researchers&#34;&gt;📖 Opportunities for students and researchers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Keep an &lt;strong&gt;academic blog&lt;/strong&gt; and share insights.&lt;/li&gt;
+&lt;li&gt;📑 Publish your &lt;strong&gt;coursework, theses, and papers&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;👥 Build a &lt;strong&gt;portfolio site&lt;/strong&gt; for job or internship applications.&lt;/li&gt;
+&lt;li&gt;🎓 Add a section with &lt;strong&gt;awards, certificates, and courses&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🎯 Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating a personal website with &lt;strong&gt;Hugo Academic&lt;/strong&gt; is a real way to build a &lt;strong&gt;professional academic page&lt;/strong&gt; in just a few hours without deep web development knowledge.&lt;br&gt;
+Such a site becomes a valuable tool for study, research, and career.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

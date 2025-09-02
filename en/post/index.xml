@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Site</title>
+    <link>https://oksana3223.github.io/en/post/</link>
+      <atom:link href="https://oksana3223.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oksana3223.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://oksana3223.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://oksana3223.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was a special one:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 The new academic year started – I’m excited about the upcoming lectures in Business Informatics.&lt;/li&gt;
+&lt;li&gt;📘 Revised the basics of &lt;strong&gt;mathematics and statistics&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;💡 Created a mind map on the topic of &lt;strong&gt;digital economy&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🧘 Attended a trial yoga class – really enjoyed it.&lt;/li&gt;
+&lt;li&gt;🎉 Met up with classmates – we discussed the schedule and plans for the semester.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://oksana3223.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;p&gt;It was a bright and eventful week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Tried building a &lt;strong&gt;financial model&lt;/strong&gt; in Excel.&lt;/li&gt;
+&lt;li&gt;📘 Learned several new &lt;strong&gt;Python functions for data analysis&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📷 Practiced photography during a city walk.&lt;/li&gt;
+&lt;li&gt;🏖 Took a day trip to a lake – had a wonderful time in nature.&lt;/li&gt;
+&lt;li&gt;🎶 Listened to podcasts about careers in IT and business.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://oksana3223.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;p&gt;It was a productive week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🖥 Installed and learned to use &lt;strong&gt;SQL Server&lt;/strong&gt; – starting to work with databases.&lt;/li&gt;
+&lt;li&gt;📘 Read articles on &lt;strong&gt;digital business transformation&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🎨 Did a photo session over the weekend – practiced editing pictures.&lt;/li&gt;
+&lt;li&gt;🎬 Went to the movies with friends – a great break from studying.&lt;/li&gt;
+&lt;li&gt;🌍 Started learning basic phrases in Spanish.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://oksana3223.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week I managed to do quite a lot:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Practiced &lt;strong&gt;Power BI&lt;/strong&gt;, creating visualizations from study datasets.&lt;/li&gt;
+&lt;li&gt;💡 Learned the basic principles of &lt;strong&gt;Agile and Scrum&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📚 Enrolled in an online &lt;strong&gt;SQL&lt;/strong&gt; course.&lt;/li&gt;
+&lt;li&gt;🏃 Went jogging in the mornings – gradually improving my results.&lt;/li&gt;
+&lt;li&gt;☕ Met up with a friend at a café, we discussed plans for the fall.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://oksana3223.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;p&gt;It was a busy and fulfilling week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📘 Started reading a book on &lt;strong&gt;business analytics&lt;/strong&gt; – it helps me better understand my field.&lt;/li&gt;
+&lt;li&gt;💻 Learned the basics of &lt;strong&gt;Excel functions&lt;/strong&gt; and tried building my first dashboards.&lt;/li&gt;
+&lt;li&gt;📝 Took notes on project management theory.&lt;/li&gt;
+&lt;li&gt;🎶 Attended a summer concert – an unforgettable experience full of emotions.&lt;/li&gt;
+&lt;li&gt;🌸 Spent the weekend with friends in the park, relaxed and recharged with positive energy.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

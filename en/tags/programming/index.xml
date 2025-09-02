@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | My Site</title>
+    <link>https://oksana3223.github.io/en/tags/programming/</link>
+      <atom:link href="https://oksana3223.github.io/en/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oksana3223.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Programming</title>
+      <link>https://oksana3223.github.io/en/tags/programming/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Programming</title>
+      <link>https://oksana3223.github.io/en/publication/04/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/publication/04/</guid>
+      <description>&lt;h1 id=&#34;-scientific-programming&#34;&gt;💻 Scientific Programming&lt;/h1&gt;
+&lt;h2 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Scientific programming&lt;/strong&gt; is the use of programming languages and computational tools to solve research problems.&lt;br&gt;
+It is applied in mathematics, physics, biology, economics, and other fields where data processing and modeling are required.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Working with large datasets.&lt;/li&gt;
+&lt;li&gt;🔬 Building mathematical models.&lt;/li&gt;
+&lt;li&gt;⚡ Optimizing computations and algorithms.&lt;/li&gt;
+&lt;li&gt;🧮 Numerical methods for solving equations and simulations.&lt;/li&gt;
+&lt;li&gt;🌍 Interdisciplinarity: from natural sciences to social studies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;popular-languages-and-tools&#34;&gt;Popular languages and tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — simplicity and a vast ecosystem of libraries (NumPy, SciPy, pandas, Matplotlib).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — statistics, data analysis, visualization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C/C++&lt;/strong&gt; — high-performance computing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB/Octave&lt;/strong&gt; — convenient for mathematics and engineering tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — a modern language for numerical computing with high speed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;where-is-it-used&#34;&gt;Where is it used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 Artificial intelligence and machine learning.&lt;/li&gt;
+&lt;li&gt;🌡 Simulation of physical processes.&lt;/li&gt;
+&lt;li&gt;💊 Bioinformatics and DNA analysis.&lt;/li&gt;
+&lt;li&gt;📈 Economics and forecasting.&lt;/li&gt;
+&lt;li&gt;🛰 Satellite data processing and geoinformatics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a bridge between mathematics, science, and modern technologies.&lt;br&gt;
+It enables researchers to obtain results faster, automate calculations, and create new models to study complex systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

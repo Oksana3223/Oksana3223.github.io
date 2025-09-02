@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Публикации | My Site</title>
+    <link>https://oksana3223.github.io/en/publication/</link>
+      <atom:link href="https://oksana3223.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oksana3223.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://oksana3223.github.io/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Presentation</title>
+      <link>https://oksana3223.github.io/en/publication/03/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/publication/03/</guid>
+      <description>&lt;h1 id=&#34;-how-to-create-a-scientific-presentation&#34;&gt;🎤 How to Create a Scientific Presentation&lt;/h1&gt;
+&lt;h2 id=&#34;1-define-the-goal&#34;&gt;1. Define the goal&lt;/h2&gt;
+&lt;p&gt;A presentation should be clear and logical: explain &lt;strong&gt;what you study, why, and what results you obtained&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;2-structure&#34;&gt;2. Structure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🟢 Introduction: topic and research objectives.&lt;/li&gt;
+&lt;li&gt;🔹 Methods: a brief overview of how the research was conducted.&lt;/li&gt;
+&lt;li&gt;📊 Results: graphs, tables, visualizations.&lt;/li&gt;
+&lt;li&gt;✅ Conclusions: key findings and future perspectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-slide-design&#34;&gt;3. Slide design&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Minimal text — maximum visuals.&lt;/li&gt;
+&lt;li&gt;Clear fonts (Arial, Calibri).&lt;/li&gt;
+&lt;li&gt;High-contrast colors for charts.&lt;/li&gt;
+&lt;li&gt;Don’t overload slides with too many elements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-visualization&#34;&gt;4. Visualization&lt;/h2&gt;
+&lt;p&gt;Use &lt;strong&gt;graphs and diagrams&lt;/strong&gt; instead of long descriptions. Numbers are better understood in tables and charts.&lt;/p&gt;
+&lt;h2 id=&#34;5-presentation-delivery&#34;&gt;5. Presentation delivery&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rehearse several times.&lt;/li&gt;
+&lt;li&gt;Speak clearly and confidently.&lt;/li&gt;
+&lt;li&gt;Keep track of time (usually 7–15 minutes).&lt;/li&gt;
+&lt;li&gt;Be ready to answer questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;A good scientific presentation combines &lt;strong&gt;clear structure, visual slides, and confident delivery&lt;/strong&gt;.&lt;br&gt;
+Remember: your goal is not just to show results but to make them understandable for the audience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming</title>
+      <link>https://oksana3223.github.io/en/publication/04/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/publication/04/</guid>
+      <description>&lt;h1 id=&#34;-scientific-programming&#34;&gt;💻 Scientific Programming&lt;/h1&gt;
+&lt;h2 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Scientific programming&lt;/strong&gt; is the use of programming languages and computational tools to solve research problems.&lt;br&gt;
+It is applied in mathematics, physics, biology, economics, and other fields where data processing and modeling are required.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Working with large datasets.&lt;/li&gt;
+&lt;li&gt;🔬 Building mathematical models.&lt;/li&gt;
+&lt;li&gt;⚡ Optimizing computations and algorithms.&lt;/li&gt;
+&lt;li&gt;🧮 Numerical methods for solving equations and simulations.&lt;/li&gt;
+&lt;li&gt;🌍 Interdisciplinarity: from natural sciences to social studies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;popular-languages-and-tools&#34;&gt;Popular languages and tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — simplicity and a vast ecosystem of libraries (NumPy, SciPy, pandas, Matplotlib).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — statistics, data analysis, visualization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C/C++&lt;/strong&gt; — high-performance computing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB/Octave&lt;/strong&gt; — convenient for mathematics and engineering tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — a modern language for numerical computing with high speed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;where-is-it-used&#34;&gt;Where is it used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 Artificial intelligence and machine learning.&lt;/li&gt;
+&lt;li&gt;🌡 Simulation of physical processes.&lt;/li&gt;
+&lt;li&gt;💊 Bioinformatics and DNA analysis.&lt;/li&gt;
+&lt;li&gt;📈 Economics and forecasting.&lt;/li&gt;
+&lt;li&gt;🛰 Satellite data processing and geoinformatics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a bridge between mathematics, science, and modern technologies.&lt;br&gt;
+It enables researchers to obtain results faster, automate calculations, and create new models to study complex systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study and Rest Balance</title>
+      <link>https://oksana3223.github.io/en/publication/05/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/publication/05/</guid>
+      <description>&lt;h1 id=&#34;-study-and-rest-balance&#34;&gt;🌱 Study and Rest Balance&lt;/h1&gt;
+&lt;h2 id=&#34;why-is-it-important&#34;&gt;Why is it important?&lt;/h2&gt;
+&lt;p&gt;A student’s life is often short on time: lectures, seminars, projects, exams.&lt;br&gt;
+Sometimes you feel like studying non-stop, but &lt;strong&gt;overload reduces efficiency&lt;/strong&gt; and leads to burnout.&lt;/p&gt;
+&lt;p&gt;Balancing study and rest is not a luxury but a necessity.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tips-for-maintaining-balance&#34;&gt;Tips for maintaining balance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⏰ &lt;strong&gt;Plan your time&lt;/strong&gt;: use a calendar and break the day into blocks.&lt;/li&gt;
+&lt;li&gt;🧘 &lt;strong&gt;Take breaks&lt;/strong&gt;: 5–10 minutes of rest after 40–50 minutes of study.&lt;/li&gt;
+&lt;li&gt;🏃 &lt;strong&gt;Physical activity&lt;/strong&gt;: sports help unload the brain.&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Alternate tasks&lt;/strong&gt;: theory + practice, mental + creative activities.&lt;/li&gt;
+&lt;li&gt;😴 &lt;strong&gt;Sleep&lt;/strong&gt;: 7–8 hours of sleep is the foundation of productivity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;examples-of-rest-that-supports-learning&#34;&gt;Examples of rest that supports learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🚶 A walk in the fresh air.&lt;/li&gt;
+&lt;li&gt;🎶 Listening to music.&lt;/li&gt;
+&lt;li&gt;🎨 Creative activities: drawing, writing, photography.&lt;/li&gt;
+&lt;li&gt;👥 Socializing with friends.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;The right balance between study and rest makes the learning process easier and more effective.&lt;br&gt;
+When you take care of yourself, your knowledge is absorbed faster, and your results improve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup Languages. LaTeX</title>
+      <link>https://oksana3223.github.io/en/publication/02/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/publication/02/</guid>
+      <description>&lt;h1 id=&#34;-markup-languages-latex&#34;&gt;🧩 Markup Languages. LaTeX&lt;/h1&gt;
+&lt;h2 id=&#34;what-are-markup-languages&#34;&gt;What are markup languages?&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;markup language&lt;/strong&gt; is a way of describing the structure and formatting of text using special commands and tags.&lt;br&gt;
+They can be divided into two groups:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lightweight&lt;/strong&gt;: simple to read and write — &lt;em&gt;Markdown, reStructuredText, AsciiDoc&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Full-fledged (heavyweight/typographic)&lt;/strong&gt;: powerful and flexible — &lt;em&gt;LaTeX, HTML, XML/DocBook&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;quick-comparison&#34;&gt;Quick comparison&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Language&lt;/th&gt;
+          &lt;th&gt;Complexity&lt;/th&gt;
+          &lt;th&gt;Purpose&lt;/th&gt;
+          &lt;th&gt;Strengths&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Markdown&lt;/td&gt;
+          &lt;td&gt;Low&lt;/td&gt;
+          &lt;td&gt;Notes, blogs, README&lt;/td&gt;
+          &lt;td&gt;Simplicity, readability&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HTML&lt;/td&gt;
+          &lt;td&gt;Medium&lt;/td&gt;
+          &lt;td&gt;Web pages&lt;/td&gt;
+          &lt;td&gt;Precise layout, web compatibility&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;XML/DocBook&lt;/td&gt;
+          &lt;td&gt;High&lt;/td&gt;
+          &lt;td&gt;Documentation, data exchange&lt;/td&gt;
+          &lt;td&gt;Strict structure, automation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;LaTeX&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Medium+&lt;/td&gt;
+          &lt;td&gt;Articles, reports, books, theses&lt;/td&gt;
+          &lt;td&gt;Math, cross-references, bibliography, typography&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-latex&#34;&gt;Why LaTeX?&lt;/h2&gt;
+&lt;p&gt;LaTeX is a high-quality typesetting system, perfectly suited for &lt;strong&gt;scientific texts&lt;/strong&gt;: articles, reports, coursework, and theses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Advantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✨ Flawless &lt;strong&gt;mathematical typesetting&lt;/strong&gt; (formulas, alignment, numbering).&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Bibliography&lt;/strong&gt; and citations out of the box (BibTeX/Biber).&lt;/li&gt;
+&lt;li&gt;🔗 &lt;strong&gt;Cross-references&lt;/strong&gt; for figures, tables, formulas, and sections.&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Packages&lt;/strong&gt; for extended functionality (amsmath, hyperref, cleveref, etc.).&lt;/li&gt;
+&lt;li&gt;🔁 &lt;strong&gt;Reproducibility&lt;/strong&gt;: the source code &lt;em&gt;is&lt;/em&gt; the document; compilation is deterministic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;installation-and-tools&#34;&gt;Installation and tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Distributions:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux/Windows: &lt;em&gt;TeX Live&lt;/em&gt;, Windows: &lt;em&gt;MiKTeX&lt;/em&gt;, macOS: &lt;em&gt;MacTeX&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Editors:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Overleaf&lt;/em&gt; (online), &lt;em&gt;TeXstudio&lt;/em&gt;, &lt;em&gt;TeXmaker&lt;/em&gt;, &lt;em&gt;VS Code&lt;/em&gt; (+ LaTeX Workshop plugin), &lt;em&gt;IntelliJ + TeXiFy&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Engines (compilers):&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;pdfLaTeX&lt;/strong&gt; — classical, stable fonts (Type 1).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;XeLaTeX&lt;/strong&gt; — native Unicode and system fonts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LuaLaTeX&lt;/strong&gt; — extensibility with Lua, advanced typography.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;latexmk&lt;/code&gt; (auto dependency build), &lt;code&gt;arara&lt;/code&gt; (declarative build rules).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;minimal-document-structure&#34;&gt;Minimal document structure&lt;/h2&gt;
+&lt;h3 id=&#34;option-a-pdflatex-traditional-broader-compatibility&#34;&gt;Option A: pdfLaTeX (traditional, broader compatibility)&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\documentclass&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[a4paper,12pt]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;article&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[T2A]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;fontenc&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[utf8]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;inputenc&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[russian,english]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;babel&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;amsmath,amssymb,mathtools&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;graphicx&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;booktabs&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;hyperref&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;microtype&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;geometry&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\geometry&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;margin=2.5cm&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\title&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Sample &lt;span class=&#34;k&#34;&gt;\LaTeX&lt;/span&gt; Document&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\author&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Oksana Chumachenko&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\date&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\today&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;document&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\maketitle&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\section&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Introduction&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This is a minimal &lt;span class=&#34;k&#34;&gt;\LaTeX&lt;/span&gt; document example.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;document&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;option-b-xelatexlualatex-modern-fonts-and-unicode&#34;&gt;Option B: XeLaTeX/LuaLaTeX (modern fonts and Unicode)&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\documentclass&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[a4paper,12pt]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;article&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;fontspec&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;polyglossia&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\setmainlanguage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;english&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\setotherlanguage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;russian&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\setmainfont&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Times New Roman&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;amsmath,amssymb,mathtools&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;graphicx&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;booktabs&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;hyperref&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;microtype&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;geometry&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\geometry&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;margin=2.5cm&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\title&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Sample &lt;span class=&#34;k&#34;&gt;\LaTeX&lt;/span&gt; Document&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\author&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Oksana Chumachenko&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\date&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\today&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;document&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\maketitle&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\section&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Introduction&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Modern stack with Unicode and system fonts.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;document&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;text-markup&#34;&gt;Text markup&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sections:&lt;/strong&gt; &lt;code&gt;\section{}&lt;/code&gt;, &lt;code&gt;\subsection{}&lt;/code&gt;, &lt;code&gt;\paragraph{}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; &lt;code&gt;\textbf{bold}&lt;/code&gt;, &lt;code&gt;\emph{italic}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lists:&lt;/strong&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;itemize&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\item&lt;/span&gt; item
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\item&lt;/span&gt; another item
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;itemize&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Non-breaking space:&lt;/strong&gt; symbol &lt;code&gt;~&lt;/code&gt; (e.g., “Fig.~\ref{fig:demo}”).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quotation marks:&lt;/strong&gt; in English — “quotes”: &lt;code&gt;“text”&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h2&gt;
+&lt;h3 id=&#34;inline-and-display-math&#34;&gt;Inline and display math&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Inline formula: &lt;code&gt;$E = mc^2$&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Displayed:
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;\[&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\int&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\infty&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} e^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;x^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;dx &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sqrt&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}}{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;\]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;numbering-and-alignment&#34;&gt;Numbering and alignment&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;equation&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\label&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;eq:newton&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  F = m a
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;equation&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;align&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  a&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;n &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt;= &lt;span class=&#34;k&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;1&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;n&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\sum&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;k=1&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;n&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; x&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;k, &lt;span class=&#34;k&#34;&gt;\\\\&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  S&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;n &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt;= &lt;span class=&#34;k&#34;&gt;\sum&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;k=1&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;n&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; k = &lt;span class=&#34;k&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;n(n+1)&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;2&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;align&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;custom-commands-macros&#34;&gt;Custom commands (macros)&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\newcommand&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\R&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\mathbb&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;R&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\newcommand&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\vect&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;[1]&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;#1&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;figures-and-tables&#34;&gt;Figures and tables&lt;/h2&gt;
+&lt;h3 id=&#34;figures&#34;&gt;Figures&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;figure&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;[htbp]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\centering&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\includegraphics&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[width=.6\textwidth]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;figs/example.png&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\caption&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Sample illustration&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\label&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;fig:demo&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;figure&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;tables-with-clean-lines&#34;&gt;Tables (with clean lines)&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;table&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;[htbp]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\centering&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\caption&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Comparison of markup languages&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\label&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;tab:markup&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;tabular&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;llll&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;\toprule&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Language &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Complexity &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Purpose &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Strengths &lt;span class=&#34;k&#34;&gt;\\\\&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;\midrule&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Markdown &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Low &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Notes, README &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Simplicity &lt;span class=&#34;k&#34;&gt;\\\\&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    HTML     &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Medium &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Web &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Layout control &lt;span class=&#34;k&#34;&gt;\\\\&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    LaTeX    &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Medium+ &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Scientific texts &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; Math, references &lt;span class=&#34;k&#34;&gt;\\\\&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;\bottomrule&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;tabular&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;table&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;Tips: include &lt;code&gt;\usepackage{graphicx}&lt;/code&gt; and store images in a &lt;code&gt;figs/&lt;/code&gt; folder. For tables, use &lt;code&gt;booktabs&lt;/code&gt; and avoid “grids” with too many vertical lines.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references-and-bibliography&#34;&gt;References and bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cross-references:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Label an object: &lt;code&gt;\label{eq:newton}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Refer to it: &lt;code&gt;see equation~\eqref{eq:newton}&lt;/code&gt; or &lt;code&gt;Fig.~\ref{fig:demo}&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hyperlinks:&lt;/strong&gt; load &lt;code&gt;hyperref&lt;/code&gt; (usually closer to the end of the preamble).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bibtexbiblatex&#34;&gt;BibTeX/BibLaTeX&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;File &lt;code&gt;refs.bib&lt;/code&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bibtex&#34; data-lang=&#34;bibtex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nc&#34;&gt;@article&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;lamport1994latex&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;author&lt;/span&gt;  &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;{Lamport, Leslie}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;title&lt;/span&gt;   &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;{LaTeX: A Document Preparation System}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;journal&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;{Addison-Wesley}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;year&lt;/span&gt;    &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;{1994}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Usage (biblatex + biber):&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[backend=biber,style=numeric,sorting=nty]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;biblatex&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\addbibresource&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;refs.bib&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Text with citation &lt;span class=&#34;k&#34;&gt;\parencite&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;lamport1994latex&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\printbibliography&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;For classic BibTeX, use &lt;code&gt;\bibliographystyle{plain}&lt;/code&gt; + &lt;code&gt;\bibliography{refs}&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;project-structure&#34;&gt;Project structure&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;project/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;├─ main.tex
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;├─ tex/        # chapters and sections (\input or \include)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;├─ figs/       # figures
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;├─ bib/        # bibliography (refs.bib)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─ build/      # build artifacts
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In &lt;code&gt;main.tex&lt;/code&gt; include parts like:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\input&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;tex/intro.tex&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\input&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;tex/methods.tex&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;build-and-automation&#34;&gt;Build and automation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;latexmk&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;latexmk -pdf -interaction&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;nonstopmode -halt-on-error main.tex
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Automatically detects how many times to run the compiler and calls &lt;code&gt;biber&lt;/code&gt;/&lt;code&gt;bibtex&lt;/code&gt; if needed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Engine selection&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-pdf&lt;/code&gt; → pdfLaTeX,&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-xelatex&lt;/code&gt; → XeLaTeX,&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-lualatex&lt;/code&gt; → LuaLaTeX.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Collaboration&lt;/strong&gt;: Overleaf supports version history and comments; locally use Git.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;common-errors-and-their-causes&#34;&gt;Common errors and their causes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Undefined control sequence&lt;/strong&gt; — typo in a command name or missing package.&lt;/li&gt;
+&lt;li&gt;**Missing $ inserted** — math written outside `$&amp;hellip;$&lt;code&gt;/&lt;/code&gt;\[&amp;hellip;\]`.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Overfull \hbox&lt;/strong&gt; — line too long; try &lt;code&gt;\sloppy&lt;/code&gt;, hyphenation, or rephrasing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;File not found&lt;/strong&gt; — incorrect path to a figure/file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Package clash&lt;/strong&gt; — package conflicts; reorder loading (&lt;code&gt;hyperref&lt;/code&gt; near the end).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;starter-preamble-recommended&#34;&gt;Starter preamble (recommended)&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\documentclass&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[a4paper,12pt]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;article&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;% Language/Unicode
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;fontspec&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;polyglossia&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\setmainlanguage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;english&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\setotherlanguage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;russian&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\setmainfont&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Times New Roman&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;% Math and symbols
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;amsmath,amssymb,mathtools&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;% Hyperlinks and clever refs
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;hyperref&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[nameinlink,noabbrev]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;cleveref&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;% Graphics and tables
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;graphicx&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;booktabs&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;caption&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;subcaption&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;% Typography and margins
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;microtype&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;geometry&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\geometry&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;margin=2.5cm&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;best-practices&#34;&gt;Best practices&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Write &lt;strong&gt;semantically&lt;/strong&gt;: commands should reflect meaning, not appearance.&lt;/li&gt;
+&lt;li&gt;Avoid manual spacing/hyphenation — rely on LaTeX mechanisms.&lt;/li&gt;
+&lt;li&gt;Use &lt;code&gt;~&lt;/code&gt; for non-breaking spaces: “Fig.~1”, “Ch.~2”, “etc.”.&lt;/li&gt;
+&lt;li&gt;Store figures in vector format (PDF/SVG→PDF) for clarity.&lt;/li&gt;
+&lt;li&gt;Split documents into parts and track your project with Git.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;LaTeX is a powerful tool for academic typesetting: it provides high-quality formula rendering, automated references and bibliography, and reproducibility of publications.&lt;br&gt;
+By mastering the basics (structure, math, figures, tables, references, bibliography), you’ll be ready to prepare &lt;strong&gt;coursework, articles, and presentations&lt;/strong&gt; at a professional level.&lt;/p&gt;
+&lt;p&gt;🚀 If needed, a project template can be prepared for specific department or journal requirements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://oksana3223.github.io/en/publication/01/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;-version-control-git&#34;&gt;🔄 Version Control. Git&lt;/h1&gt;
+&lt;h2 id=&#34;what-is-version-control&#34;&gt;What is version control?&lt;/h2&gt;
+&lt;p&gt;Version control is the process of systematically tracking changes in source code, documentation, configurations, and other digital artifacts.&lt;br&gt;
+It is a fundamental tool in software development that allows you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🕒 save the history of changes and roll back to previous versions;&lt;/li&gt;
+&lt;li&gt;👥 collaborate on a project with multiple developers;&lt;/li&gt;
+&lt;li&gt;🔍 analyze who made changes and when;&lt;/li&gt;
+&lt;li&gt;⚖️ manage multiple versions of the same product (e.g., release and experimental branch).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Without version control, a project quickly loses structure: changes overwrite each other, duplicate files appear, and important data is lost.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;git--the-main-version-control-tool&#34;&gt;Git – the main version control tool&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; is a distributed version control system (VCS) created by Linus Torvalds in 2005 for Linux kernel development.&lt;br&gt;
+Today, Git has become the de facto standard in programming.&lt;/p&gt;
+&lt;h3 id=&#34;-key-features-of-git&#34;&gt;🔹 Key features of Git&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Distributed&lt;/strong&gt; — every developer has a complete clone of the repository with its history, enabling offline work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast&lt;/strong&gt; — operations are performed locally and take milliseconds.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible&lt;/strong&gt; — supports complex workflows, branching, and merging.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reliable&lt;/strong&gt; — all changes are secured with unique SHA-1 hashes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-basic-principles-of-working-with-git&#34;&gt;📂 Basic principles of working with Git&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Local and remote repositories&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A repository is a database of the project with its history.&lt;/li&gt;
+&lt;li&gt;The local repository is stored on your computer, while the remote one is on a server (GitHub, GitLab, Bitbucket).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Commits and change history&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A commit is a “snapshot” of the project at a given time.&lt;/li&gt;
+&lt;li&gt;Each commit contains the author, date, description, and hash.&lt;/li&gt;
+&lt;li&gt;The hash guarantees the immutability of the history.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Branching and merging&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Branches allow parallel work on features, bug fixes, or experiments.&lt;/li&gt;
+&lt;li&gt;The main branch is usually called &lt;code&gt;main&lt;/code&gt; or &lt;code&gt;master&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Once work is finished, changes are merged back into the main branch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conflict resolution&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If changes overlap in the same file, Git cannot merge automatically.&lt;/li&gt;
+&lt;li&gt;The developer must manually decide which lines to keep.&lt;/li&gt;
+&lt;li&gt;Conflicts are a normal part of collaborative development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Teamwork&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A popular model is &lt;strong&gt;Git Flow&lt;/strong&gt;: separate branches for development, releases, and hotfixes.&lt;/li&gt;
+&lt;li&gt;Collaboration often uses &lt;strong&gt;pull requests&lt;/strong&gt; (or merge requests) where code is reviewed before merging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-essential-git-commands&#34;&gt;🔧 Essential Git commands&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Create a new repository&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Clone an existing project&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://github.com/user/repo.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Check status&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git status
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Add files to commit&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add file.txt
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Create a commit&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;Description of changes&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# View history&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Create a new branch&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch feature-branch
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Switch to a branch&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout feature-branch
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Merge a branch into main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git merge feature-branch
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Push changes to server&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin main
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Pull changes from server&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;-why-git-is-better-than-just-copying-files&#34;&gt;🤔 Why Git is better than just copying files?&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Storage method&lt;/th&gt;
+          &lt;th&gt;Version control&lt;/th&gt;
+          &lt;th&gt;Rollback possible&lt;/th&gt;
+          &lt;th&gt;Teamwork supported&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Simple file copying&lt;/td&gt;
+          &lt;td&gt;❌ No&lt;/td&gt;
+          &lt;td&gt;❌ No&lt;/td&gt;
+          &lt;td&gt;❌ No&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Git&lt;/td&gt;
+          &lt;td&gt;✅ Yes&lt;/td&gt;
+          &lt;td&gt;✅ Yes&lt;/td&gt;
+          &lt;td&gt;✅ Yes&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Git enables systematic project work: every version is preserved in history, and collaboration becomes transparent and manageable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-github-gitlab-and-bitbucket&#34;&gt;🌍 GitHub, GitLab, and Bitbucket&lt;/h2&gt;
+&lt;p&gt;Git is a tool, but for team collaboration, platforms are used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — the largest platform for open-source projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab&lt;/strong&gt; — focused on enterprise use, supports CI/CD.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bitbucket&lt;/strong&gt; — integrates with Jira and other Atlassian tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These services let you store code in the cloud, manage tasks, run automated tests, and deploy projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-practical-use-cases-of-git&#34;&gt;🧑‍💻 Practical use cases of Git&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Education&lt;/strong&gt; — storing lab work and coursework projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Science&lt;/strong&gt; — tracking changes in research code and scripts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business&lt;/strong&gt; — developing corporate applications and products.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hobbies&lt;/strong&gt; — maintaining personal pet projects and contributing to open source.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;Git is not just a tool but an industry standard. It simplifies working on projects of any scale — from student projects to global open-source systems.&lt;/p&gt;
+&lt;p&gt;If you’re planning a career in IT, learning Git is not optional — it’s essential.&lt;/p&gt;
+&lt;p&gt;🚀 How do you use Git in your projects? Share your experience in the comments!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

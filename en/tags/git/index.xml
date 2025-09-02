@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git | My Site</title>
+    <link>https://oksana3223.github.io/en/tags/git/</link>
+      <atom:link href="https://oksana3223.github.io/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Git</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oksana3223.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Git</title>
+      <link>https://oksana3223.github.io/en/tags/git/</link>
+    </image>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://oksana3223.github.io/en/publication/01/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;-version-control-git&#34;&gt;🔄 Version Control. Git&lt;/h1&gt;
+&lt;h2 id=&#34;what-is-version-control&#34;&gt;What is version control?&lt;/h2&gt;
+&lt;p&gt;Version control is the process of systematically tracking changes in source code, documentation, configurations, and other digital artifacts.&lt;br&gt;
+It is a fundamental tool in software development that allows you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🕒 save the history of changes and roll back to previous versions;&lt;/li&gt;
+&lt;li&gt;👥 collaborate on a project with multiple developers;&lt;/li&gt;
+&lt;li&gt;🔍 analyze who made changes and when;&lt;/li&gt;
+&lt;li&gt;⚖️ manage multiple versions of the same product (e.g., release and experimental branch).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Without version control, a project quickly loses structure: changes overwrite each other, duplicate files appear, and important data is lost.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;git--the-main-version-control-tool&#34;&gt;Git – the main version control tool&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; is a distributed version control system (VCS) created by Linus Torvalds in 2005 for Linux kernel development.&lt;br&gt;
+Today, Git has become the de facto standard in programming.&lt;/p&gt;
+&lt;h3 id=&#34;-key-features-of-git&#34;&gt;🔹 Key features of Git&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Distributed&lt;/strong&gt; — every developer has a complete clone of the repository with its history, enabling offline work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast&lt;/strong&gt; — operations are performed locally and take milliseconds.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible&lt;/strong&gt; — supports complex workflows, branching, and merging.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reliable&lt;/strong&gt; — all changes are secured with unique SHA-1 hashes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-basic-principles-of-working-with-git&#34;&gt;📂 Basic principles of working with Git&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Local and remote repositories&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A repository is a database of the project with its history.&lt;/li&gt;
+&lt;li&gt;The local repository is stored on your computer, while the remote one is on a server (GitHub, GitLab, Bitbucket).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Commits and change history&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A commit is a “snapshot” of the project at a given time.&lt;/li&gt;
+&lt;li&gt;Each commit contains the author, date, description, and hash.&lt;/li&gt;
+&lt;li&gt;The hash guarantees the immutability of the history.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Branching and merging&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Branches allow parallel work on features, bug fixes, or experiments.&lt;/li&gt;
+&lt;li&gt;The main branch is usually called &lt;code&gt;main&lt;/code&gt; or &lt;code&gt;master&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Once work is finished, changes are merged back into the main branch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conflict resolution&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If changes overlap in the same file, Git cannot merge automatically.&lt;/li&gt;
+&lt;li&gt;The developer must manually decide which lines to keep.&lt;/li&gt;
+&lt;li&gt;Conflicts are a normal part of collaborative development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Teamwork&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A popular model is &lt;strong&gt;Git Flow&lt;/strong&gt;: separate branches for development, releases, and hotfixes.&lt;/li&gt;
+&lt;li&gt;Collaboration often uses &lt;strong&gt;pull requests&lt;/strong&gt; (or merge requests) where code is reviewed before merging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-essential-git-commands&#34;&gt;🔧 Essential Git commands&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Create a new repository&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Clone an existing project&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://github.com/user/repo.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Check status&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git status
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Add files to commit&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add file.txt
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Create a commit&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;Description of changes&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# View history&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Create a new branch&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch feature-branch
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Switch to a branch&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout feature-branch
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Merge a branch into main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git merge feature-branch
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Push changes to server&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin main
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Pull changes from server&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;-why-git-is-better-than-just-copying-files&#34;&gt;🤔 Why Git is better than just copying files?&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Storage method&lt;/th&gt;
+          &lt;th&gt;Version control&lt;/th&gt;
+          &lt;th&gt;Rollback possible&lt;/th&gt;
+          &lt;th&gt;Teamwork supported&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Simple file copying&lt;/td&gt;
+          &lt;td&gt;❌ No&lt;/td&gt;
+          &lt;td&gt;❌ No&lt;/td&gt;
+          &lt;td&gt;❌ No&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Git&lt;/td&gt;
+          &lt;td&gt;✅ Yes&lt;/td&gt;
+          &lt;td&gt;✅ Yes&lt;/td&gt;
+          &lt;td&gt;✅ Yes&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Git enables systematic project work: every version is preserved in history, and collaboration becomes transparent and manageable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-github-gitlab-and-bitbucket&#34;&gt;🌍 GitHub, GitLab, and Bitbucket&lt;/h2&gt;
+&lt;p&gt;Git is a tool, but for team collaboration, platforms are used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — the largest platform for open-source projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab&lt;/strong&gt; — focused on enterprise use, supports CI/CD.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bitbucket&lt;/strong&gt; — integrates with Jira and other Atlassian tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These services let you store code in the cloud, manage tasks, run automated tests, and deploy projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-practical-use-cases-of-git&#34;&gt;🧑‍💻 Practical use cases of Git&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Education&lt;/strong&gt; — storing lab work and coursework projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Science&lt;/strong&gt; — tracking changes in research code and scripts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business&lt;/strong&gt; — developing corporate applications and products.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hobbies&lt;/strong&gt; — maintaining personal pet projects and contributing to open source.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;Git is not just a tool but an industry standard. It simplifies working on projects of any scale — from student projects to global open-source systems.&lt;/p&gt;
+&lt;p&gt;If you’re planning a career in IT, learning Git is not optional — it’s essential.&lt;/p&gt;
+&lt;p&gt;🚀 How do you use Git in your projects? Share your experience in the comments!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills | My Site</title>
+    <link>https://oksana3223.github.io/en/tags/skills/</link>
+      <atom:link href="https://oksana3223.github.io/en/tags/skills/index.xml" rel="self" type="application/rss+xml" />
+    <description>Skills</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oksana3223.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Skills</title>
+      <link>https://oksana3223.github.io/en/tags/skills/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Presentation</title>
+      <link>https://oksana3223.github.io/en/publication/03/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://oksana3223.github.io/en/publication/03/</guid>
+      <description>&lt;h1 id=&#34;-how-to-create-a-scientific-presentation&#34;&gt;🎤 How to Create a Scientific Presentation&lt;/h1&gt;
+&lt;h2 id=&#34;1-define-the-goal&#34;&gt;1. Define the goal&lt;/h2&gt;
+&lt;p&gt;A presentation should be clear and logical: explain &lt;strong&gt;what you study, why, and what results you obtained&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;2-structure&#34;&gt;2. Structure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🟢 Introduction: topic and research objectives.&lt;/li&gt;
+&lt;li&gt;🔹 Methods: a brief overview of how the research was conducted.&lt;/li&gt;
+&lt;li&gt;📊 Results: graphs, tables, visualizations.&lt;/li&gt;
+&lt;li&gt;✅ Conclusions: key findings and future perspectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-slide-design&#34;&gt;3. Slide design&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Minimal text — maximum visuals.&lt;/li&gt;
+&lt;li&gt;Clear fonts (Arial, Calibri).&lt;/li&gt;
+&lt;li&gt;High-contrast colors for charts.&lt;/li&gt;
+&lt;li&gt;Don’t overload slides with too many elements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-visualization&#34;&gt;4. Visualization&lt;/h2&gt;
+&lt;p&gt;Use &lt;strong&gt;graphs and diagrams&lt;/strong&gt; instead of long descriptions. Numbers are better understood in tables and charts.&lt;/p&gt;
+&lt;h2 id=&#34;5-presentation-delivery&#34;&gt;5. Presentation delivery&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rehearse several times.&lt;/li&gt;
+&lt;li&gt;Speak clearly and confidently.&lt;/li&gt;
+&lt;li&gt;Keep track of time (usually 7–15 minutes).&lt;/li&gt;
+&lt;li&gt;Be ready to answer questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;A good scientific presentation combines &lt;strong&gt;clear structure, visual slides, and confident delivery&lt;/strong&gt;.&lt;br&gt;
+Remember: your goal is not just to show results but to make them understandable for the audience.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
